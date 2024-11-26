@@ -22,6 +22,8 @@ This is a simple expense tracker application with a graphical user interface (GU
    git clone https://github.com/your-username/expense-tracker.git
    cd expense-tracker
 ## Screenshots
-![Screenshot 2024-11-26 175656](https://github.com/user-attachments/assets/484f59a6-1223-496a-a1bf-f176585394f5)![Screenshot 2024-11-26 175740](https://github.com/user-![Screenshot 2024-11-26 175803](https://github.com/user-attachments/assets/a030ea37-c4d5-4361-bcd7-9aa4c9c0fb1e)
-attachments/assets/db9b2522-1776-4abb-bf7e-953a759db559)
+![Screenshot 2024-11-26 175656](https://github.com/user-attachments/assets/484f59a6-1223-496a-a1bf-f176585394f5)
+![Screenshot 2024-11-26 175740](https://github.com/user-attachments/assets/db9b2522-1776-4abb-bf7e-953a759db559)
+![Screenshot 2024-11-26 175803](https://github.com/user-attachments/assets/a030ea37-c4d5-4361-bcd7-9aa4c9c0fb1e)
+
 
